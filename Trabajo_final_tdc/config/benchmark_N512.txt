@@ -1,0 +1,10 @@
+# Escenario de prueba benchmark con 512 partículas
+
+N_PARTICLES     512
+N_STEPS         10000
+PRINT_FREQ      1000
+BOX_SIZE        25.0
+TIMESTEP        0.002
+MASS            39.948
+EPSILON         0.997
+SIGMA           3.405

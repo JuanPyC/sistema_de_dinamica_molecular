@@ -1,0 +1,11 @@
+# Escenario de prueba 2 gas de baja densidad
+
+
+N_PARTICLES     216
+N_STEPS         10000
+PRINT_FREQ      1000
+BOX_SIZE        30.0
+TIMESTEP        0.002
+MASS            39.948
+EPSILON         0.997
+SIGMA           3.405

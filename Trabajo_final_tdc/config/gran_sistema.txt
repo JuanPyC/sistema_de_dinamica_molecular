@@ -1,0 +1,10 @@
+# En este escenario tenemos un gran número de partículas
+
+N_PARTICLES     1000
+N_STEPS         5000
+PRINT_FREQ      500
+BOX_SIZE        35.0
+TIMESTEP        0.002
+MASS            39.948
+EPSILON         0.997
+SIGMA           3.405
